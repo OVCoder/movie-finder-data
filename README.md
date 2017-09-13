@@ -1,0 +1,1 @@
+A server that accepts requests for Open Movie DataBase (OMDB) API.
